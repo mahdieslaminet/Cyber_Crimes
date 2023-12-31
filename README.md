@@ -23,8 +23,7 @@
 این پروژه تحت لایسنس [مجوز MIT](LICENSE) قرار گرفته است. 
 
 ## تماس
-برای تماس با ما و مطرح کردن سوالات و نظرات، می‌توانید از بخش 'Issues' گیت‌هاب استفاده کنید یا مستقیماً به [soheilsasani2004@gmail.com] پیام ارسال فرمایبد.
---- 
+--- برای تماس با ما و مطرح کردن سوالات و نظرات، می‌توانید از بخش 'Issues' گیت‌هاب استفاده کنید یا مستقیماً به [soheilsasani2004@gmail.com] پیام ارسال فرمایبد.
 ## چگونه کار می کند؟
 https://drive.google.com/file/d/1mOB0wh3Llnlw3Prnd96hCfoRjVA6WhWs/view?usp=drivesdk
 
@@ -61,18 +60,18 @@ def start(update: Update, context: CallbackContext) -> None:
     update.message.reply_text(options)
 
 def main() -> None:
-    # API Token را از پارامتر‌ها وارد کنید
+# API Token را از پارامتر‌ها وارد کنید
     TOKEN = 'your_token_api'
     
     updater = Updater(TOKEN)
     
-    # اضافه کردن دستور /start به ربات
+# اضافه کردن دستور /start به ربات
     updater.dispatcher.add_handler(CommandHandler('start', start))
     
-    # شروع دریافت پیام‌ها
+# شروع دریافت پیام‌ها
     updater.start_polling()
     
-    # ربات باید فعال باشد تا زمانی که به صورت دستی خاموش شود
+# ربات باید فعال باشد تا زمانی که به صورت دستی خاموش شود
     updater.idle()
 
 if __name__ == '__main__':
