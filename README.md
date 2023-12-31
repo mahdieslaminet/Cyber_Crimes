@@ -41,6 +41,7 @@ https://drive.google.com/file/d/1mOB0wh3Llnlw3Prnd96hCfoRjVA6WhWs/view?usp=drive
 با استفاده  از کامند سوم شما می توانید یکی دیگراز کامند های از پیش ساخته شده خود را داخل این کامند قرار دهید و ترتیب قرار گیری آن را مشخص کنید.
 ود در دستور اول شما کامند انتخاب شده را حذف می کنید.
 
+https://drive.google.com/file/d/1msEYzKzRKCCtiGrahOQ1pAw7RsuNwh3s/view?usp=drivesdk
 
 ## سازندگان
 
