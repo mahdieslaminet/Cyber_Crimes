@@ -44,8 +44,8 @@ https://drive.google.com/file/d/1mOB0wh3Llnlw3Prnd96hCfoRjVA6WhWs/view?usp=drive
 
 ## سازندگان
 
-سهیل ساسانی 
-علی علیایی 
+سهیل ساسانی، 
+علی علیایی، 
 میلان هاشمی
 
 
